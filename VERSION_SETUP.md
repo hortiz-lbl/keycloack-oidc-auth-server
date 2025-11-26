@@ -46,8 +46,8 @@ El formulario de login ahora muestra:
 │  [    Iniciar Sesión    ]       │
 │                                 │
 │  Credenciales de prueba:        │
-│  Email: hortiz@libelulasoft.com │
-│  Contraseña: baLexI             │
+│  Email: 6mzhptd20p@ozsaip.com │
+│  Contraseña: 0Uxbw7             │
 │                                 │
 │  ─────────────────────────────  │
 │  v1.0.0 [development]           │
