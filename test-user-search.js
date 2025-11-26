@@ -10,8 +10,8 @@ console.log('🔍 Probando búsqueda de usuario específico');
 console.log('==========================================');
 
 // Usuario a probar
-const TEST_EMAIL = process.env.TEST_USER_EMAIL || 'hortiz@libelulasoft.com';
-const TEST_PASSWORD = process.env.TEST_USER_PASSWORD || 'baLexI';
+const TEST_EMAIL = process.env.TEST_USER_EMAIL || '6mzhptd20p@ozsaip.com';
+const TEST_PASSWORD = process.env.TEST_USER_PASSWORD || '0Uxbw7';
 
 // Configuración de Supabase
 const SUPABASE_URL = process.env.SUPABASE_URL || 'https://your-project.supabase.co';
