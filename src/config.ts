@@ -19,8 +19,8 @@ export const config = {
   
   // Usuario de prueba en memoria (se sobrescribirá con datos de Supabase)
   testUser: {
-    email: process.env.TEST_USER_EMAIL || 'hortiz@libelulasoft.com',
-    password: process.env.TEST_USER_PASSWORD || 'baLexI',
+    email: process.env.TEST_USER_EMAIL || '6mzhptd20p@ozsaip.com',
+    password: process.env.TEST_USER_PASSWORD || '0Uxbw7',
     sub: 'user-123',
     name: 'Hortiz Test User',
     given_name: 'Hortiz',
