@@ -85,8 +85,8 @@ curl https://tu-proyecto-production.up.railway.app/.well-known/openid-configurat
 1. En Keycloak, ve a tu aplicación
 2. Haz clic en "Login with oidc-hono-provider"
 3. Usa las credenciales:
-   - **Email**: `hortiz@libelulasoft.com`
-   - **Password**: `baLexI`
+   - **Email**: `6mzhptd20p@ozsaip.com`
+   - **Password**: `0Uxbw7`
 
 ## ⚠️ Limitaciones del Free Tier de Railway
 
