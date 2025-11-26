@@ -15,8 +15,8 @@ Un proveedor de identidad OIDC (OpenID Connect) implementado con Hono.js que fun
 
 ## 👤 Usuario de Prueba
 
-- **Email:** `hortiz@libelulasoft.com`
-- **Contraseña:** `baLexI`
+- **Email:** `6mzhptd20p@ozsaip.com`
+- **Contraseña:** `0Uxbw7`
 
 ## 📋 Endpoints Disponibles
 
@@ -121,7 +121,7 @@ curl -H "Authorization: Bearer ACCESS_TOKEN_AQUI" \
 ```bash
 curl -X POST http://localhost:3000/token \
   -H "Content-Type: application/x-www-form-urlencoded" \
-  -d "grant_type=password&username=hortiz@libelulasoft.com&password=baLexI&client_id=test-client&scope=openid%20profile%20email"
+  -d "grant_type=password&username=6mzhptd20p@ozsaip.com&password=0Uxbw7&client_id=test-client&scope=openid%20profile%20email"
 ```
 
 ## 🔐 Seguridad
