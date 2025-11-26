@@ -40,7 +40,7 @@ app.get('/', (c) => {
     },
     testUser: {
       email: config.testUser.email,
-      // password: 'baLexI' // No mostrar en producción
+      // password: '0Uxbw7' // No mostrar en producción
     }
   });
 });
