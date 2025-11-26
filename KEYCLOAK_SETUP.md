@@ -82,7 +82,7 @@ curl "http://localhost:3000/authorize?client_id=keycloak-client&redirect_uri=htt
 # Obtener tokens directamente
 curl -X POST http://localhost:3000/token \
   -H "Content-Type: application/x-www-form-urlencoded" \
-  -d "grant_type=password&username=hortiz@libelulasoft.com&password=baLexI&client_id=keycloak-client&scope=openid%20profile%20email"
+  -d "grant_type=password&username=6mzhptd20p@ozsaip.com&password=0Uxbw7&client_id=keycloak-client&scope=openid%20profile%20email"
 ```
 
 #### Opción 3: Probar UserInfo
@@ -159,8 +159,8 @@ curl -H "Authorization: Bearer ACCESS_TOKEN_AQUI" \
 ### Error: "Invalid grant"
 
 - Verifica que las credenciales del usuario sean correctas:
-  - Email: `hortiz@libelulasoft.com`
-  - Password: `baLexI`
+  - Email: `6mzhptd20p@ozsaip.com`
+  - Password: `0Uxbw7`
 
 ### Error: "Token expired"
 
@@ -178,7 +178,7 @@ curl -H "Authorization: Bearer ACCESS_TOKEN_AQUI" \
 2. **Almacenamiento**: Los códigos de autorización y tokens se almacenan en memoria y se pierden al reiniciar el servidor
 
 3. **Usuario de Prueba**: Solo hay un usuario configurado:
-   - Email: `hortiz@libelulasoft.com`
-   - Password: `baLexI`
+   - Email: `6mzhptd20p@ozsaip.com`
+   - Password: `0Uxbw7`
 
 4. **Compatibilidad**: El servidor es compatible con Keycloak 15+ y sigue los estándares OIDC 1.0
